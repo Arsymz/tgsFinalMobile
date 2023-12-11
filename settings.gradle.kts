@@ -12,5 +12,7 @@ dependencyResolutionManagement {
         mavenCentral()
     }
 }
-rootProject.name = "MyRecyclerView"
+
+rootProject.name = "recyclerview"
 include(":app")
+ 
