@@ -1,2 +1,2 @@
-#semoga aku dapat pahala
+...
 
